@@ -7,11 +7,11 @@ setup(
     name="code-statistics",
     version="0.1.0",
     author="NikitaStepanov",
-    author_email="nikita@example.com",
+    author_email="stepanov.iop@gmail.com",
     description="Инструмент для подсчета статистики кода в проектах",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/nikitastepanov/code-statistics",
+    url="https://github.com/snaart/code-statistics",
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
